@@ -18,7 +18,7 @@ Please create a basic calendar web app, starting with a month view - no need to 
 
 Here's a basic idea of what it might look like:
 
-[Calendar App - Month View](images/calendar-example.png?raw=true)
+![Calendar App - Month View](images/calendar-example.png)
 
 ### TODO
 
